@@ -39,8 +39,5 @@ The following Jupyter notebooks are included in this project:
 - `Feature Importance.ipynb`: Analysis and visualization of feature importance.
 
 ## Getting Started
-To explore this project, review the provided notebooks, which detail each step from data collection to model evaluation.
-
-## Contact
-For any questions or comments, please contact: ebytt2017@gmail.com.
+To get a deeper understanding of this project, look at the notebooks. which details each step from data collection to model evaluation
 
